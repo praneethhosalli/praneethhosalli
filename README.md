@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![GitHub Streak](https://streak-stats.demolab.com?user=praneethhosalli&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500)
+
+
 <!--
 **praneethhosalli/praneethhosalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
