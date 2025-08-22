@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=praneethhosalli&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500)
+<!-- Center the card -->
+<div align="center">
+
+  <!-- Streak stats (shows total, current streak, longest streak) -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=praneethhosalli&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500&include_all_commits=true)
+
+</div>
 
 
 <!--
