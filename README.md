@@ -1,7 +1,3 @@
-## Hi there... 👋
-
 <div align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=praneethhosalli&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&include_all_commits=true&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=FF8C00&sideLabels=FF8C00&background=00000000&include_private=true&cache_seconds=1800&disable_animations=false"
-       alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praneethhosalli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
 </div>
