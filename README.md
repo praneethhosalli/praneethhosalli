@@ -32,4 +32,4 @@ Cloud Concepts •  DevOps (CI/CD , deployments)
 
 ## 📬 Connect With Me  
 📧 **Email:** praneethhosalli59@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/hosalli-praneeth/
+🔗 **LinkedIn:** https://www.linkedin.com/in/hosalli-praneeth/
