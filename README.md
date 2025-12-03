@@ -1,10 +1,46 @@
 ## Hi  there.... 👋
 
+## 🧠 Problem Solving  
+Solved **200+ DSA / Programming Problems**  
+🔗 https://takeuforward.org/plus/profile/Praneeth%20Hosalli  
 
-<div align="center">
-  <a href="https://github.com/praneethhosalli">
-    <img src="https://streak-stats.demolab.com?user=praneethhosalli&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&include_all_commits=true&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=FF8C00&sideLabels=FF8C00&background=00000000&include_private=true&cache_seconds=7200&disable_animations=true" 
-         alt="GitHub Streak Stats"
-         title="Click to view GitHub profile" />
-  </a>
-</div>
+---
+
+## 🔧 Tech Stack 
+
+### **Languages**
+- Python  
+- JavaScript  
+- SQL  
+
+### **Frontend**
+- React  
+- HTML, CSS  
+- Tailwind CSS, Bootstrap  
+- Redux  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- REST APIs  
+- Postman  
+
+### **Databases**
+- MySQL  
+- MongoDB  
+
+### **Tools & Platforms**
+- Git, GitHub  
+- VS Code  
+- Linux (Basics + Commands)  
+- AWS (EC2, S3 – beginner level)  
+- Google Cloud (Foundational)  
+- Jupyter Notebook  
+
+### **Foundational Knowledge**
+- Cloud Computing Concepts  
+- Basic DevOps Practices (version control, CI/CD awareness, deployments)  
+
+## 📫 Contact Me
+📩 **Email:** praneethhosalli59@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/hosalli-praneeth/ 
