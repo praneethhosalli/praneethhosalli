@@ -23,10 +23,10 @@ Node.js • Express.js • REST APIs • Postman
 MySQL • MongoDB  
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code • Linux • AWS (Basics) • Google Cloud • Jupyter  
+Git • GitHub • VS Code • Linux • AWS    
 
 **Foundations:**  
-Cloud Concepts • Basic DevOps (CI/CD awareness, deployments)
+Cloud Concepts •  DevOps (CI/CD , deployments)
 
 ---
 
