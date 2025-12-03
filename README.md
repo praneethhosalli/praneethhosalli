@@ -1,46 +1,35 @@
-## Hi  there.... 👋
+# 👋 Hi, I'm Praneeth
+
+---
 
 ## 🧠 Problem Solving  
-Solved **200+ DSA / Programming Problems**  
+✔️ Solved **200+ DSA / Programming Problems**  
 🔗 https://takeuforward.org/plus/profile/Praneeth%20Hosalli  
 
 ---
 
-## 🔧 Tech Stack 
+## ⚙️ Tech Stack
 
-### **Languages**
-- Python  
-- JavaScript  
-- SQL  
+**Languages:**  
+Python • JavaScript • SQL  
 
-### **Frontend**
-- React  
-- HTML, CSS  
-- Tailwind CSS, Bootstrap  
-- Redux  
+**Frontend:**  
+React • Redux • HTML • CSS • Tailwind • Bootstrap  
 
-### **Backend**
-- Node.js  
-- Express.js  
-- REST APIs  
-- Postman  
+**Backend & APIs:**  
+Node.js • Express.js • REST APIs • Postman  
 
-### **Databases**
-- MySQL  
-- MongoDB  
+**Databases:**  
+MySQL • MongoDB  
 
-### **Tools & Platforms**
-- Git, GitHub  
-- VS Code  
-- Linux (Basics + Commands)  
-- AWS (EC2, S3 – beginner level)  
-- Google Cloud (Foundational)  
-- Jupyter Notebook  
+**Tools & Platforms:**  
+Git • GitHub • VS Code • Linux • AWS (Basics) • Google Cloud • Jupyter  
 
-### **Foundational Knowledge**
-- Cloud Computing Concepts  
-- Basic DevOps Practices (version control, CI/CD awareness, deployments)  
+**Foundations:**  
+Cloud Concepts • Basic DevOps (CI/CD awareness, deployments)
 
-## 📫 Contact Me
-📩 **Email:** praneethhosalli59@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/hosalli-praneeth/ 
+---
+
+## 📬 Connect With Me  
+📧 **Email:** praneethhosalli59@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/hosalli-praneeth/
