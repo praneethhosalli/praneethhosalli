@@ -4,7 +4,7 @@
 
 ## 🧠 Problem Solving  
 ✔️ Solved **200+ DSA / Programming Problems**  
-🔗 https://takeuforward.org/plus/profile/Praneeth%20Hosalli  
+🔗 https://takeuforward.org/profile/Praneeth%20Hosalli 
 
 ---
 
